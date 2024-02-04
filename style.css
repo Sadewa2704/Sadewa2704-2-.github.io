@@ -1,0 +1,57 @@
+body{
+    background: linear-gradient(#9a08dd 0%,#dd4c4f 40%,#7420d3 100%);
+}
+.profile{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.profileimage{
+    width: 200px;
+   
+
+}
+.profile h2 {
+    color: white;
+}
+.profile p {
+    transform: translateY(-10px);
+    color: white;
+}
+.biodata{
+    background: linear-gradient(#ffffff 0%,#ffffffd5 40%,#fdfdfd00 100%);
+    padding-bottom: 200px;
+}
+button {
+  margin-top: -20px;
+}
+.Skill{
+    padding-top: 55px;
+
+}
+.biodata{
+    padding-top: 55px;
+}
+.row{
+    padding: 0px 10px;
+}
+.footer{
+    background-color: #fff;
+    padding-bottom: 20px;
+}
+.icon{
+    
+    margin-top: -15;
+}
+.contact a {
+    color: black;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-left: 5px;
+}
+.watermark{
+    padding-top: 20px;
+}
